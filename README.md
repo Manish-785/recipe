@@ -1,2 +1,2 @@
-# recipe
-Odin Project Recipe
+# Recipes Project
+First project on HTML 
